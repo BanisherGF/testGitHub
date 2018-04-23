@@ -1,6 +1,8 @@
-#primera version
+#segunda version
+texto=inf(input("escriba algo"))
 
 while(True):
-	print("somos nada!!)
+	if(texto!=0):
+		print("somos nada!!)
 
 

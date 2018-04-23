@@ -1,8 +1,8 @@
-#segunda version
-texto=inf(input("escriba algo"))
+#tercera version
+texto=int(input("escriba algo")) #correcion  de la definicion int
 
 while(True):
 	if(texto!=0):
-		print("somos nada!!)
+		print("SOMOS NADA!!) #correcion de mayusculas
 
 
